@@ -1,0 +1,10 @@
+* deoxybyte-unix
+
+Unix utilities for Common Lisp via CFFI.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/keithj/deoxybyte-unix.git   |
+| commit  | 8d1ec19  |
+| systems | deoxybyte-unix |
+|---------+-------------------------------------------|
+
